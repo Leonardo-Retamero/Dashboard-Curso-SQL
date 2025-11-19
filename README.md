@@ -50,6 +50,7 @@ As respostas foram obtidas através de consultas SQL e refinadas no Power BI par
 
 <img width="1481" height="180" alt="image" src="https://github.com/user-attachments/assets/2f0a2b96-328c-46af-967b-edca5337ad81" />
 
+
 ✔️ Clientes perdidos
 
 Quantidade de clientes que vieram apenas uma vez e não retornaram mais.
@@ -68,7 +69,52 @@ Total médio de alunos presentes ao longo dos 5 dias.
 
 ---
 
+### 📊 Gráficos Desenvolvidos
 
+<img width="1480" height="662" alt="image" src="https://github.com/user-attachments/assets/e50da652-094d-46bd-a405-e6abc55c44da" />
+
+
+📌 1. Transações por mês (2025)
+
+Mostra a evolução mensal do volume de transações ao longo do ano.
+
+📌 2. Quantidade de clientes por dia (5 dias de curso)
+
+Permite visualizar o engajamento diário durante o evento.
+
+📌 3. Churn por dia
+
+Mostra a taxa de abandono por dia do curso, permitindo identificar queda de participação.
+
+📌 4. Clientes antigos têm mais frequência de transações?
+
+Gráfico de dispersão que relaciona:
+
+Total de dias cadastrados
+
+Total de interações
+
+📌 5. Interações por dia (5 dias)
+
+Volume diário de interações no curso.
+
+📌 6. Interações acumuladas durante o curso
+
+Demonstra o crescimento acumulado da participação dos alunos.
+
+---
+
+### 🧠 Insights Obtidos
+
+- O dado de clientes perdidos revela o volume de participantes que não retornam, indicando desafios de retenção.
+
+- O tempo médio de retorno oferece visibilidade sobre o comportamento de revisita.
+
+- O churn diário evidencia momentos críticos onde há maior abandono.
+
+- O gráfico de dispersão indica que clientes antigos não tem maior engajamento.
+
+- A evolução de interações ajuda a entender o ritmo do curso e o engajamento total.
 
 
 
