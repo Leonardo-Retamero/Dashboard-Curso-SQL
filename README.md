@@ -71,7 +71,8 @@ Total médio de alunos presentes ao longo dos 5 dias.
 
 ### 📊 Gráficos Desenvolvidos
 
-<img width="1480" height="662" alt="image" src="https://github.com/user-attachments/assets/e50da652-094d-46bd-a405-e6abc55c44da" />
+<img width="1480" height="659" alt="image" src="https://github.com/user-attachments/assets/6ce04e57-ae08-4990-9f9e-a24c767b18f8" />
+
 
 
 📌 1. Transações por mês (2025)
