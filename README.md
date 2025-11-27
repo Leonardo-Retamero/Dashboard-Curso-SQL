@@ -7,6 +7,8 @@ Este projeto tem como objetivo analisar o comportamento dos clientes durante um 
 
 A análise busca responder perguntas de negócio relevantes, identificar padrões de comportamento e fornecer insights sobre engajamento, churn e atividade dos usuários.
 
+### [👉 Clique aqui para visualizar o Dashboard no Power BI](https://app.powerbi.com/view?r=eyJrIjoiNTJmZGYzMGQtMzJhNS00ZjNmLTgwNjctZjVmNjY2YmM3Mjg3IiwidCI6ImQ5MDNmYzJlLTU0OTktNDllMi1iZWFkLTYzMDhhN2UxZTRjOCJ9)
+
 ---
 
 ### 💻 Tecnologias Utilizadas
